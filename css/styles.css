@@ -1,0 +1,168 @@
+body{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-size: 20px;
+  font-family: 'Tenali Ramakrishna', sans-serif;
+}
+
+h1{
+  color: cornflowerblue;
+  font-size: 80px;
+  font-family: 'Sacramento', cursive;
+  margin: 50px auto 0 auto;
+}
+
+p{
+  line-height: 2;
+}
+
+h2{
+  color: cornflowerblue;
+  font-size: 35px;
+  font-family: 'Work Sans', sans-serif;
+}
+
+h3{
+  color: dodgerblue;
+  font-family: 'Work Sans', sans-serif;
+}
+
+.sub{
+  font-weight: normal;
+  font-size: 25px;
+}
+
+.w{
+  background-color: aliceblue;
+  position: relative;
+  padding-top: 100px;
+}
+
+.pro{
+  text-decoration: underline;
+
+}
+
+.cl1{
+  position:absolute;
+  top: 130px;
+  right: 350px;
+  border-radius: 100%;
+}
+
+.cl2{
+  position: absolute;
+  bottom: 400px;
+  left: 350px;
+  border-radius: 100%;
+}
+
+.mount{
+  border-radius: 100%;
+}
+
+
+hr{
+  border-top: 6px dotted #EAF6F6;
+  width: 5%;
+  margin: 80px auto;
+}
+
+.i1{
+  height: 200px;
+  width: 200px;
+  border-radius: 100%;
+}
+
+.i3{
+  height: 200px;
+  width: 200px;
+  border-radius: 100%;
+  float: left;
+  margin-right: 30px;
+}
+
+.i2{
+  height: 250px;
+  width: 250px;
+  border-radius: 150%;
+  float: right;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.blank{
+  height: 20px;
+}
+
+.intro{
+  width: 40%;
+  margin:auto;
+}
+
+.middle-container{
+  margin: 100px 0;
+}
+
+.bottom-container{
+  background-color: aliceblue;
+  padding: 50px 0 20px;
+}
+
+a{
+  color: steelblue;
+  font-family: 'Work Sans', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #11cdd4;
+}
+
+.btn {
+
+  background: linear-gradient(to bottom, #11cdd4 5%, #11999e 100%);
+
+  background-color: #11cdd4;
+
+  -webkit-border-radius:8px;
+
+  -moz-border-radius:8px;
+
+  border-radius: 8px;
+
+  display: inline-block;
+
+  cursor: pointer;
+
+  color: #ffffff;
+
+  font-family: 'Montserrat', sans-serif;
+
+  font-size: 28px;
+
+  padding: 15px 21px;
+
+  text-decoration: none;
+
+}
+
+.btn:hover {
+
+  background: linear-gradient(to bottom, #11999e 5%, #11cdd4 100%);
+
+  background-color: #11999e;
+
+}
+
+.btn:active {
+
+  position: relative;
+
+  top: 1px;
+
+}
